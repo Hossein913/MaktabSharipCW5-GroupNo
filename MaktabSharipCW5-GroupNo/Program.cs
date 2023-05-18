@@ -10,6 +10,7 @@ namespace MaktabSharipCW5_GroupNo
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

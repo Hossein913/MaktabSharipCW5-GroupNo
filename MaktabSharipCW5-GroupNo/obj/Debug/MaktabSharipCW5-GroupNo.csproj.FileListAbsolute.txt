@@ -1,0 +1,7 @@
+C:\Users\Konj\source\GtiPull\MaktabSharipCW5-GroupNo\MaktabSharipCW5-GroupNo\obj\Debug\MaktabSharipCW5-GroupNo.csproj.AssemblyReference.cache
+C:\Users\Konj\source\GtiPull\MaktabSharipCW5-GroupNo\MaktabSharipCW5-GroupNo\obj\Debug\MaktabSharipCW5-GroupNo.csproj.CoreCompileInputs.cache
+C:\Users\Konj\source\GtiPull\MaktabSharipCW5-GroupNo\MaktabSharipCW5-GroupNo\bin\Debug\MaktabSharipCW5-GroupNo.exe.config
+C:\Users\Konj\source\GtiPull\MaktabSharipCW5-GroupNo\MaktabSharipCW5-GroupNo\bin\Debug\MaktabSharipCW5-GroupNo.exe
+C:\Users\Konj\source\GtiPull\MaktabSharipCW5-GroupNo\MaktabSharipCW5-GroupNo\bin\Debug\MaktabSharipCW5-GroupNo.pdb
+C:\Users\Konj\source\GtiPull\MaktabSharipCW5-GroupNo\MaktabSharipCW5-GroupNo\obj\Debug\MaktabSharipCW5-GroupNo.exe
+C:\Users\Konj\source\GtiPull\MaktabSharipCW5-GroupNo\MaktabSharipCW5-GroupNo\obj\Debug\MaktabSharipCW5-GroupNo.pdb
